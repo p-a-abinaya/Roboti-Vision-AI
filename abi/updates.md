@@ -4,3 +4,4 @@
 3. Thresholding 
 
 ![Original Image](original.jpg "original image")
+<img src="original.jpg" alt="original" width="200"/>
