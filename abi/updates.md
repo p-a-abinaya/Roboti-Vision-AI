@@ -1,6 +1,12 @@
 # Modules added:
-1. Averaging mask
-2. Averaging using rotating mask
-3. Thresholding 
+## Original image
+<img src="original.jpg" alt="original" width="500"/>
 
-<img src="original.jpg" alt="original" width="200"/>
+## After averaging mask
+<img src="avg.jpg" alt="avg" width="500"/>
+
+## After averaging using rotating mask
+<img src="avgg.jpg" alt="avgg" width="500"/>
+
+## After thresholding 
+<img src="binary.jpg" alt="binary" width="500"/>
