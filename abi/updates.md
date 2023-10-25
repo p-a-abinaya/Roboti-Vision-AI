@@ -15,3 +15,6 @@
 
 ### After thresholding 
 <img src="binary.jpg" alt="binary" width="500"/>
+
+### After edge detection
+<img src="edge detected image.jpg" alt="edge detected image" width="500"/>
