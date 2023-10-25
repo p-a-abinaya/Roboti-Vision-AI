@@ -17,4 +17,4 @@
 <img src="binary.jpg" alt="binary" width="500"/>
 
 ### After edge detection
-<img src="edge detected image.jpg" alt="edge detected image" width="500"/>
+<img src="edge detected image.png" alt="edge detected image" width="500"/>
